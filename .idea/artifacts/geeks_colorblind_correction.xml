@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="geeks-colorblind-correction">
+    <output-path>$PROJECT_DIR$/out/artifacts/geeks_colorblind_correction</output-path>
+    <root id="archive" name="geeks-colorblind-correction.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="ColorblindFilter" />
+    </root>
+  </artifact>
+</component>
